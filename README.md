@@ -17,16 +17,19 @@
     <td>Matkul</td>
     <td>Pemrograman Web</td>
   </tr>
+ </table>
+  
+  <hr/>
   
   Link akses Website:
   
   <ul>
-      <li> user   : http://luqmantoro.my.id/ </li>
+      user   : http://luqmantoro.my.id/
       
-      <li> admin  : http://luqmantoro.my.id/index.php/login </li>
+      admin  : http://luqmantoro.my.id/index.php/login
       
-      <li> Email  : denniluqmantoro@gmail.com </li>
+      Email  : denniluqmantoro@gmail.com
       
-      <li> Pass   : 312010071 </li>
+      Pass   : 312010071
       
    </ul>
